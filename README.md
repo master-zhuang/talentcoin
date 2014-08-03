@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
+TalentCoin (TLC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
  - 42 007 680 total coins
@@ -14,12 +14,12 @@ means be used as a real cryptocurrency. All of the coin parameters
 are chosen arbitrarily or at most with 'fairness' towards everyone in mind.
 
 So actually, this 'new' coin exists for the following reasons:
- - SMC proves that really anyone(!) can start a Litecoin/Bitcoin based currency
+ - TLC proves that really anyone(!) can start a Litecoin/Bitcoin based currency
     (just look at the changes I applied to the original Litecoin source,
      for genesis block generation look at main.cpp)
  - allows me to experiment with coin parameters (in a private network)
 
-Finally, I only tested the command line server/tool 'smallchange' for the
+Finally, I only tested the command line server/tool 'talentcoin' for the
 first 30 blocks. Credits go to the original authors/communities that
 created Bitcoin and Litecoin.
 
